@@ -32,6 +32,10 @@ Data can be accessed through this website via the [data portal](https://dev.imap
 
 Alternatively, the `imap-data-access` command-line utility and Python package provides programmatic access to query and download data. More information can be found in its [documentation](https://imap-processing.readthedocs.io/en/latest/data-access/index.html).
 
+## I-ALiRT: Low Latency Space Weather Data
+
+Space weather data can be accessed through IMAP's low-latency I-ALiRT system. See the [Space Weather](https://dev.imap-mission.com/ialirt) pages for current plots and more information on the I-ALiRT [data access API](https://dev.imap-mission.com/ialirt/api).
+
 ## News
 
 This section will be updated with the latest news and updates, but there are none yet.
