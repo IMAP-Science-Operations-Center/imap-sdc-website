@@ -40,7 +40,7 @@ Below is a growing list of conference presentations, posters, and papers that in
 
 ## 📥 Submit a Publication
 
-If you've authored or contributed to a publication involving the IMAP SDC and would like it listed here, please reach out to the team or submit a pull request to this page.
+If you've authored or contributed to a publication involving the IMAP SDC and would like it listed here, please reach out to the team (imap-sdc@lists.lasp.colorado.edu) or submit a pull request to this page.
 
 ---
 
