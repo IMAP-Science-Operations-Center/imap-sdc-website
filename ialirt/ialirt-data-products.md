@@ -2,7 +2,6 @@
 
 ### ACE-heritage, near real-time data products produced by I-ALiRT
 
-These I-ALiRT data products correspond to products produced by ACE but at a higher cadence.
 
 These I-ALiRT data products correspond to products produced by ACE but at a higher cadence.
 <!--
