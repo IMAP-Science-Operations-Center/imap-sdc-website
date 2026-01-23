@@ -53,7 +53,15 @@ These I-ALiRT data products correspond to products produced by ACE but at a high
     <tr>
         <td>HIT</td>
         <td>SEP proton count rates</td>
-        <td>12 to 15 MeV protons (2 energy ranges, each for sunward and antisunward look directions)</td>
+        <td>6 to 15 MeV protons (2 energy ranges, omnidirectional look directions)</td>
+        <td>#/s</td>
+        <td>1 min</td>
+        <td>5 min</td>
+    </tr>
+	<tr>
+	    <td>HIT</td>
+        <td>Helium-4 count rates</td>
+        <td>6 to 70 MeV/nuc 4He (2 energy ranges, omnidirectional look directions)</td>
         <td>#/s</td>
         <td>1 min</td>
         <td>5 min</td>
