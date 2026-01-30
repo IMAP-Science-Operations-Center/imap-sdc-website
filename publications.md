@@ -28,12 +28,16 @@ We will update this section with a permanent DOI link once our software/data rel
 
 Below is a growing list of conference presentations, posters, and papers that involve the IMAP SDC team, tools, or services:
 
-### 2023
+### 2025
 
-- **"Title"**  
-  *Location*  
-  *Author(s): [Names]*  
-  [link]()
+**Interstellar Mapping and Acceleration Probe: the NASA IMAP mission.**
+*McComas DJ, Christian ER, Schwadron NA, et al (2025)  Space Sci Rev 221:100.* 
+[link](https://doi.org/10.1007/s11214-025-01224-z)
+
+**Space weather science to enhance forecasting with the NASA IMAP Active Link for Real-Time (I-ALiRT) System.** 
+*Lee CO, Christian ER, Sandoval L, et al (2025). Space Sci Rev 221:117.* 
+[link](https://doi.org/10.1007/s11214-025-01244-9)
+
 
 
 ---
@@ -44,4 +48,4 @@ If you've authored or contributed to a publication involving the IMAP SDC and wo
 
 ---
 
-*Last updated: July 22, 2025*
+*Last updated: January 30, 2026*
