@@ -108,13 +108,6 @@ These new I-ALiRT data products will enhance space weather forecasting.
         <td>Helium-4 count rates</td>
         <td>6 to 70 MeV/nuc 4He (2 energy ranges, omnidirectional look direction)</td>
     </tr>
-	<tr>
-        <td>HIT</td>
-        <td>Helium-4 count rates</td>
-        <td>6 to 70 MeV/nuc 4He (2 energy ranges, omnidirectional look direction)</td>
-        <td>#/s</td>
-        <td>1 min</td>
-    </tr>
     <tr>
         <td rowspan="2">SWE</td>
         <td>Identification of counterstreaming (bidirectional) electron flow</td>
