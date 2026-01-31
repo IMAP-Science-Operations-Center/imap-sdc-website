@@ -98,11 +98,15 @@ These new I-ALiRT data products will enhance space weather forecasting.
         <td>4 min</td>
     </tr>
     <tr>
-        <td>HIT</td>
+        <td rowspan="2">HIT</td>
         <td>SEP electron count rates</td>
-        <td>0.5 to 1 MeV electrons (2 energy ranges, each for sunward and antisunward look directions)</td>
-        <td>#/s</td>
-        <td>1 min</td>
+        <td>&lt; 1 MeV electrons (2 energy ranges, each for sunward and antisunward look directions)</td>
+        <td rowspan="2">#/s</td>
+        <td rowspan="2">1 min</td>
+    </tr>
+	<tr>
+        <td>Helium-4 count rates</td>
+        <td>6 to 70 MeV/nuc 4He (2 energy ranges, omnidirectional look direction)</td>
     </tr>
 	<tr>
         <td>HIT</td>

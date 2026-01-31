@@ -1,3 +1,3 @@
-## I-ALiRT in NASA's Space Physics Data Facility (SPDF)
+## Archive of I-ALiRT data at the NASA Space Physics Data Facility (SPDF)
 
-When available, this will link directly to the data products in NASA's Space Physics Data Facility (SPDF) <a href="https://cdaweb.gsfc.nasa.gov/">Coordinated Data Analysis Web (CDAWeb)</a>.
+The CDF files of the I-ALiRT data products will become available, nominally 1 week after the data have been downlinked, and archived at the NASA Space Physics Data Facility (SPDF) <a href="https://cdaweb.gsfc.nasa.gov/">Coordinated Data Analysis Web (CDAWeb)</a>.
