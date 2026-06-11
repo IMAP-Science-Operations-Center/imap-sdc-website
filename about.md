@@ -14,4 +14,4 @@ Space weather data can be accessed through IMAP's low-latency I-ALiRT system. Se
 
 ## Contact
 
-For questions or support, please contact the SDC team at [imap-sdc@lists.lasp.colorado.edu](mailto:imap-sdc@lists.lasp.colorado.edu).
+For questions or support, please contact the IMAP Science Data Center (SDC) team at [imap-sdc@lists.lasp.colorado.edu](mailto:imap-sdc@lists.lasp.colorado.edu).
